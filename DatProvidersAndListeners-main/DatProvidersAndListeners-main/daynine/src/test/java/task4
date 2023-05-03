@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="edgetest">
+  <parameter name="browsers" value="edge" />
+    <classes>
+      <class name="com.example.classnine.task4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

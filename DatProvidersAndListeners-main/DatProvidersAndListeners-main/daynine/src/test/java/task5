@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <listeners>
+  <listener class-name="com.example.classnine.TestListener" />
+  </listeners>
+  <test name="Test">
+    <classes>
+      <class name="com.example.classnine.task5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
